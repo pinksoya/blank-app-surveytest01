@@ -1,2 +1,5 @@
 streamlit
 pypdf
+Pillow
+reportlab
+python-docx
